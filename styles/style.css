@@ -16,7 +16,7 @@ body {
     border: none;
     outline: none;
     position: absolute;
-    top: 12rem;
+    top: 5rem;
     z-index: 3;
     cursor: pointer;
     background-color: chartreuse;
